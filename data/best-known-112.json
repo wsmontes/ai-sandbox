@@ -1,0 +1,21 @@
+{
+  "n": 7,
+  "k": 5,
+  "scope": 112,
+  "rows": [
+    [0, 11, 58, 75, 98, 112],
+    [0, 12, 32, 50, 103, 111],
+    [0, 22, 41, 89, 104, 110],
+    [0, 28, 52, 83, 108, 109],
+    [0, 13, 62, 72, 105, 107],
+    [0, 9, 16, 60, 102, 106],
+    [0, 27, 30, 66, 95, 100]
+  ],
+  "source": {
+    "title": "New Difference Triangle Sets by a Field-Programmable Gate Array-Based Search Technique",
+    "authors": ["Mohannad Shehadeh", "William Kingsford", "Frank R. Kschischang"],
+    "journal": "Journal of Combinatorial Designs 34(1), 2026",
+    "doi": "10.1002/jcd.22009",
+    "note": "Appendix A; first zero column restored here."
+  }
+}
